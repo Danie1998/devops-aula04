@@ -1,5 +1,3 @@
 # devops-aula04
 
-Bastardos inglorios
-Cavaleiros das trevas
-Blitz
+ramo da onde nada existiu (like)
